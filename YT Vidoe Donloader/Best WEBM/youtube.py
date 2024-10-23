@@ -16,6 +16,6 @@ def download_video(url):
         print(f"An error occurred: {e}")
 
 # Sample video link to download
-    video_url = 'https://www.youtube.com/watch?v=dHUq9xJcaZs'
+    video_url = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 # Call the download_video function with the sample video URL
 download_video(video_url)
